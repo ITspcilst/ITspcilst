@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm ITspcilst
+**Junior IT Support Technician | Aspiring System Administrator**  
+Hands-on experience with Windows Server, Active Directory, Linux administration, networking, troubleshooting, and automation.  
 
-<!--
-**ITspcilst/ITspcilst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Highlighted Projects (SysAdmin / IT Support)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Active Directory Lab
+- Built a complete multi-VM Active Directory environment using VirtualBox.  
+- Configured DNS, OUs, GPOs, user/groups, and Windows client domain-join.  
+- Demonstrates foundational Windows Server and enterprise infrastructure skills.
+
+🔗 **Repo:** https://github.com/ITspcilst/ActiveDirectoryLab
+
+---
+
+### 🛠️ Practical Help Desk Project
+- Simulated a real-world help desk ticket involving user account management.  
+- Created local admin user, enforced password policy, and documented troubleshooting workflow.  
+- Demonstrates customer support mindset, documentation, and problem-solving.
+
+🔗 **Repo:** https://github.com/ITspcilst/Practical-Help-Desk-Project
+
+---
+
+### 🌐 Network Routing Issue – Windows Server Lab
+- Diagnosed and repaired a network routing misconfiguration on Windows Server.  
+- Analyzed routing tables, fixed incorrect gateway settings, and restored connectivity.  
+- Shows networking fundamentals, troubleshooting, and Windows Server administration.
+
+🔗 **Repo:** https://github.com/ITspcilst/Network-Routing-Issue-Fix-Windows-Server-Lab-
+
+---
+
+### 🐧 Linux User & Permission Management
+- Created and managed Linux users, groups, ownership rules, and file permissions.  
+- Demonstrates comfort with Linux CLI, system administration, and basic security principles.
+
+🔗 **Repo:** https://github.com/ITspcilst/LinuxUser-and-PermissionManagement
+
+---
+
+### 📦 Automated Backup Script (Linux)
+- Developed a Bash script to automate file backups with compression and logging.  
+- Demonstrates scripting, automation, scheduling readiness (cron), and system maintenance.  
+- Highlights ability to streamline IT workflows through automation.
+
+🔗 **Repo:** https://github.com/ITspcilst/Linux-Automated-Backup-Script
+
+---
+
+## 🧰 Skills Snapshot
+
+### **🪟 Windows & Server Administration**
+- Active Directory, DNS, GPO  
+- Windows Server configuration  
+- User & group administration  
+- Troubleshooting & system maintenance  
+
+### **🐧 Linux Administration**
+- User and permission management  
+- Shell scripting & automation  
+- Backup and file system operations  
+
+### **🌐 Networking**
+- Routing, gateways, subnets  
+- Connectivity diagnostics (`ping`, `traceroute`, `route print`)  
+- VLAN / virtual network environments  
+
+### **🛠️ IT Support & Troubleshooting**
+- Help desk workflows  
+- Problem isolation & documentation  
+- Ticket-style issue resolution  
+
+---
+
+## 📫 Contact
+If you'd like to connect or collaborate, feel free to reach out via GitHub.
+
+---
+
+**Thanks for visiting my profile!**
+
