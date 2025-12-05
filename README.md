@@ -50,6 +50,14 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ---
 
+## 🔧 PowerShell Projects
+
+- **Active Directory Bulk User Creation Script** — automation for bulk-creating AD users, adding them to a group, and forcing password reset on first login.  
+🔗 **Repo:** https://github.com/ITspcilst/Active-Directory-Bulk-User-Creation-Script-PowerShell-
+
+---
+
+
 ## 🧰 Skills Snapshot
 
 ### **🪟 Windows & Server Administration**
