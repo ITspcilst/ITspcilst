@@ -52,7 +52,7 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ## 🔧 PowerShell Projects
 
-- **Active Directory Bulk User Creation Script** — automation for bulk-creating AD users, adding them to a group, and forcing password reset on first login.  
+- This project **automates** the creation of **Active Directory (AD)** user accounts using a CSV file, making it easy to onboard large numbers of users quickly and consistently. 
 🔗 **Repo:** https://github.com/ITspcilst/Active-Directory-Bulk-User-Creation-Script-PowerShell-
 
 ---
