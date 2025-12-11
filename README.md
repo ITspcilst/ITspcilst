@@ -52,8 +52,12 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ## 🔧 PowerShell Projects
 
-- This project **automates** the creation of **Active Directory (AD)** user accounts using a CSV file, making it easy to onboard large numbers of users quickly and consistently. 
+- Project 1 **automates** the creation of **Active Directory (AD)** user accounts using a CSV file, making it easy to onboard large numbers of users quickly and consistently. 
 🔗 **Repo:** https://github.com/ITspcilst/Active-Directory-Bulk-User-Creation-Script-PowerShell-
+
+- Project 2 **automates** a Password reset process, generates random strong passwords, extracts the new passwords into a **passwords.csv** file, and force only the **Active Directory (AD)** user accounts which are inside the **CSV** file to reset their password, making it easy to manage security a large numbers of users. 
+🔗 **Repo:** https://github.com/ITspcilst/ActiveDirectory-BulkPasswordReset-PowershellScript
+
 
 ---
 
