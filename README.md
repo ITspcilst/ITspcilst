@@ -50,7 +50,7 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ---
 
-## 🔧 PowerShell Projects
+### 🔧 PowerShell Projects
 
 - Project 1 **automates** the creation of **Active Directory (AD)** user accounts using a CSV file, making it easy to onboard large numbers of users quickly and consistently.
   
