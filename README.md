@@ -58,6 +58,17 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 - Project 2 **automates** a Password reset process, generates random strong passwords, extracts the new passwords into a **passwords.csv** file, and force only the **Active Directory (AD)** user accounts which are inside the **CSV** file to reset their password, making it easy to manage security a large numbers of users. 
 🔗 **Repo:** https://github.com/ITspcilst/ActiveDirectory-BulkPasswordReset-PowershellScript
 
+---
+
+## 🔐 SSH Help Desk Portfolio
+Remote Server Access & Troubleshooting Using SSH
+
+- User access troubleshooting
+- SSH service diagnostics
+- Linux system checks
+- Incident documentation
+🔗 **Repo:** https://github.com/ITspcilst/SSH-Help-Desk-Portfolio-Project/tree/main
+
 
 ---
 
@@ -73,7 +84,8 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 ### **🐧 Linux Administration**
 - User and permission management  
 - Shell scripting & automation  
-- Backup and file system operations  
+- Backup and file system operations
+- Remote Access and Troubleshooting  
 
 ### **🌐 Networking**
 - Routing, gateways, subnets  
