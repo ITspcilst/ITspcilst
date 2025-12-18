@@ -62,7 +62,7 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ---
 
-## 🔐 SSH Help Desk Portfolio
+### 🔐 SSH Help Desk Portfolio
 Remote Server Access & Troubleshooting Using SSH
 
 - User access troubleshooting
