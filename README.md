@@ -70,7 +70,7 @@ Remote Server Access & Troubleshooting Using SSH
 - Linux system checks
 - Incident documentation
 
-🔗 **Repo:** https://github.com/ITspcilst/SSH-Help-Desk-Portfolio-Project/tree/main
+🔗 **Repo:** https://github.com/ITspcilst/SSH-Help-Desk-Portfolio-Project
 
 ---
 
