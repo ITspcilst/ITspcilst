@@ -17,10 +17,17 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 
 ---
 
-### 🛠️ Practical Help Desk Project
+### 🛠️ Practical Help Desk Project (Peppermint) 
 - Simulated a real-world help desk ticket involving user account management.  
 - Created local admin user, enforced password policy, and documented troubleshooting workflow.  
 - Demonstrates customer support mindset, documentation, and problem-solving.
+Incident & Ticket Management
+- Tier 1 Help Desk Troubleshooting
+- DHCP & DNS Diagnostics
+- Active Directory Account Support
+- Application Troubleshooting
+- Workstation Performance Analysis
+
 
 🔗 **Repo:** https://github.com/ITspcilst/Practical-Help-Desk-Project
 
