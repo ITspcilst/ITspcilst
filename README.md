@@ -28,7 +28,7 @@ Incident & Ticket Management
 - Application Troubleshooting
 - Workstation Performance Analysis
 
-
+🔗 **Repo:** https://github.com/ITspcilst/IT-HelpDesk-Ticketing-Simulation-Lab
 🔗 **Repo:** https://github.com/ITspcilst/Practical-Help-Desk-Project
 
 ---
