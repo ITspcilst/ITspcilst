@@ -12,7 +12,7 @@ Hands-on experience with Windows Server, Active Directory, Linux administration,
 - Demonstrates foundational Windows Server and enterprise infrastructure skills.
 
 🔗 **Repo:** https://github.com/ITspcilst/ActiveDirectoryLab
-
+   **Repo:** https://github.com/ITspcilst/ActiveDirectory-Administration-Lab
 ---
 
 ### 🛠️ Practical Help Desk Project
